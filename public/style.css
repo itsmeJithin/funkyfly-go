@@ -14,3 +14,12 @@ main {
     width: 100%;
     overflow-y: scroll;
 }
+.nav-wrapper{
+    background-color: #2283c9;
+}
+.ml-1{
+    margin-left: 1rem;
+}
+.page-footer{
+    background-color: #2283c9 !important;
+}
